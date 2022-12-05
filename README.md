@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- My name is Duong. 
+
+- I'm a software engineer based in Vietnam.
+
+- I have experience working with Golang, Rust, Python, and Java.
+
 <!--
 **tranxuanduong/tranxuanduong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
