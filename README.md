@@ -6,6 +6,12 @@
 
 - I have experience working with Golang, Rust, Python, and Java.
 
+- In my free time, I like to study and share knowledge about computer science. I'm working on the following:
+
+  Back to basics: knowledge of data structures and algorithms, design patterns, operating system, networking, databases, ...
+
+  Building from scratch: explore how to implement some popular systems like DBMS, Redis, Kafka, ...
+
 <!--
 **tranxuanduong/tranxuanduong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
